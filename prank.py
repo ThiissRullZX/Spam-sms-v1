@@ -40,6 +40,8 @@ print(banner)
 # Jangan lu ubah ngab
 print ('\033[31;1m[!] \033[32;1mExample: \033[33;1m8xxxxxxx')
 
+print ('\033[31;1m[WARNING] \033[32;1mJIKA INGIN STOP KLIK \033[33;1mCTRLZ+Z')
+
 nomor = input(' \033[36;1mMasukan Nomor Orang Nya :\033[33;1m ')
 print ('\033[32;1mMASUKAN JUMLAH SPAMNYA !!')
 print ('')
