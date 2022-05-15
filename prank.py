@@ -47,9 +47,9 @@ jm = int(input('\033[31;1m Jumlah Spam :\033[33;1m '))
 for i in range(jm):
       req=requests.get("https://ainxbot-sms.herokuapp.com/api/spamsms",params={"phone":nomor}).text
       if "mengirim" in req:
-            print ('\n \033[37;1m[\033[32;1m✓\033[37;1m]\033[32;1mSUKSES MENGIRIM PESAN')
+            print ('\n \033[37;1m[\033[32;1m✓\033[37;1m]\033[32;1mSUKSES MENGIRIM SPAM')
       else:
-            print ('\n \033[37;1m[\033[33;1mLOADING\033[37;1m]\033[36;1mSEDANG MENGIRIM PESAN')
+            print ('\n \033[37;1m[\033[33;1mLOADING\033[37;1m]\033[36;1mSEDANG MENGIRIM SPAM')
 
 
 # subscribe MisterAM
