@@ -21,4 +21,4 @@ Subscribe Channel Yt Gw Bang :
 https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ
 Friends : Dimas,Adly,Faiz,Asrul,Angga,Putra
 nomer whatsapp :
-https://wa.me/6288219647445\nScript ny Jgn Fi Salah Gunakan
+https://wa.me/6288219647445 \nScript ny Jgn Fi Salah Gunakan
