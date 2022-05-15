@@ -7,12 +7,12 @@ import requests,os,sys,time
 from time import sleep
 #kalo biaa jangan di ubah :v
 os.system('clear')
-print ('\033[36;1mSubscribe yt ku ngab \033[37mMisterAM \033[36mok! :v')
-os.system('termux-open-url https://youtube.com/channel/UCXk4vbvDl7i6dxWBtNdpx6w')
+print ('\033[36;1mSubscribe yt ku bang \033[37mArul MINIKREP \033[36mok! :v')
+os.system('termux-open-url https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ')
 sleep(5)
 os.system('clear')
-print ('\033[36;1mjoin grub \033[37;1mwa gua ngab :v')
-os.system('xdg-open https://cararegistrasi.com/5QxXfcSkSsm')
+print ('\033[37;1mWa Gw Bang :')
+os.system('xdg-open https://wa.me/6288219647445')
 sleep(3)
 os.system('clear')
 # Ubah Terserah kalian ngab
@@ -26,12 +26,12 @@ banner= """
 \033[37;1m ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝ \033[37;1m╚══════╝╚═╝     ╚═╝╚══════╝
 
 \033[33;1m╔════════════════════════════════════════════════╗
-\033[33;1m║  \033[36;1m [•] Authour : MisterAM                      \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Mister-AM    \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] Yotube  : MisterAM                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Authour : Asrul                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/ArulMC123    \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Yotube  : Arul MINIKREP                      \033[33;1m ║
 \033[33;1m╚════════════════════════════════════════════════╝
 \033[36;1m╔═══════════════════════════╗
-\033[36;1m║\033[33;1m GUNAKAN DENGAB BJIAK NGAB\033[36;1m ║
+\033[36;1m║\033[33;1m GUNAKAN DENGAN BENAR \033[36;1m ║
 \033[36;1m╚═══════════════════════════╝"""
 sleep(1)
 print(banner)
@@ -40,7 +40,7 @@ print(banner)
 print ('\033[31;1m[!] \033[32;1mContoh nomor : \033[33;1m8xxxxxxx')
 
 nomor = input(' \033[36;1minput nomor lu :\033[33;1m ')
-print ('\033[32;1mMASUKAN JUMLAH SPAMNYA NGAB')
+print ('\033[32;1mMASUKAN JUMLAH SPAMNYA ??')
 print ('')
 jm = int(input('\033[31;1m Jumlah Spam :\033[33;1m '))
 
