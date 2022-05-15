@@ -32,11 +32,15 @@ python prank.py
 Subscribe Channel Yt Gw Bang : 
 
 https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ
+
 Friends : Dimas,Adly,Faiz,Asrul,Angga,Putra
 
 nomer whatsapp :
 
 https://wa.me/6288219647445 
+
 Script ny Jgn Di Salah Gunakan
 
-Di Wajibkan Untuk Spam Ripper Dan Mantan Lu Kalo Punys
+Di Wajibkan Untuk Spam Ripper Dan Mantan Lu [ Kalo Punya ]
+
+© Arul-TEAM
