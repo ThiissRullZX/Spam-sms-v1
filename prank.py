@@ -27,7 +27,7 @@ banner= """
 
 \033[33;1m╔═════════════════════════════════════════════════════╗
 \033[33;1m║  \033[36;1m [•] Author  : Asrul                              \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] GitHub  : https:github.com/ArulMC123         \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] GitHub  : https:github.com/ThiissRullZX         \033[33;1m ║
 \033[33;1m║  \033[36;1m [•] Yotube  : Arul MINIKREP                      \033[33;1m ║
 \033[33;1m║  \033[36;1m [•] Friends : Dims,Adly,Faiz,Angga,Asrul,Putra   \033[33;1m ║
 \033[33;1m╚═════════════════════════════════════════════════════╝
@@ -40,7 +40,7 @@ print(banner)
 # Jangan lu ubah ngab
 print ('\033[31;1m[!] \033[32;1mExample: \033[33;1m8xxxxxxx')
 
-print ('\033[31;1m[WARNING] \033[32;1mJIKA INGIN STOP KLIK \033[33;1mCTRLZ+Z')
+print ('\033[31;1m[WARNING] \033[32;1mJIKA INGIN STOP KLIK \033[33;1mCTRL+Z')
 
 nomor = input(' \033[36;1mMasukan Nomor Orang Nya :\033[33;1m ')
 print ('\033[32;1mMASUKAN JUMLAH SPAMNYA !!')
